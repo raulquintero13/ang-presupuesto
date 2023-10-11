@@ -7,7 +7,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 https://raulquintero13.github.io/ang-presupuesto/
 
 ## ScreenShots
-![Preview](https://raulquintero13.github.io/ang-cart/assets/screenshots/screenshot01.png)
+![Preview](https://raulquintero13.github.io/ang-presupuesto/assets/screenshots/screenshot01.png)
 
 ## Development server
 
